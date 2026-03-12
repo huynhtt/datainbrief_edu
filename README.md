@@ -63,11 +63,12 @@ PC1–PC5             Process Clarity items
 
 All survey items were measured using a five-point Likert scale:
 
-1 = Strongly disagree
-2 = Disagree
-3 = Neutral
-4 = Agree
+1 = Strongly disagree;
+2 = Disagree;
+3 = Neutral;
+4 = Agree;
 5 = Strongly agree
+
 
 5. Survey Instrument
 
