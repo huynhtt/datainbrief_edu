@@ -49,7 +49,6 @@ Each row represents one respondent.
 Dataset Variables
 
 Variable            Description
---------------------------------------------------------------
 ID                  Anonymous respondent identifier
 gender              Respondent gender
 year_of_study       Academic year (1–4)
