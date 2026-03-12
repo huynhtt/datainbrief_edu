@@ -138,5 +138,9 @@ This dataset accompanies the research article: Student Engagement in Teaching Ev
 For questions regarding the dataset or research, please contact:
 
 Tran Trong Huynh
+
 Department of Mathematics, FPT University, Ho Chi Minh City, Vietnam 
+
 E-mail: huynhtt4@fe.edu.vn
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
