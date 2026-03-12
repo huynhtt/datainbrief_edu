@@ -49,15 +49,25 @@ Each row represents one respondent.
 Dataset Variables
 
 Variable            Description
+
 ID                  Anonymous respondent identifier
+
 gender              Respondent gender
+
 year_of_study       Academic year (1–4)
+
 program             Field of study
+
 OI1–OI5             Organizational Identification items
+
 TR1–TR5             Institutional Trust items
+
 PU1–PU5             Perceived Usefulness of SET items
+
 CB1–CB5             Constructive Evaluation Behavior items
+
 PB1–PB5             Self-Perceived Evaluation Bias items
+
 PC1–PC5             Process Clarity items
 
 All survey items were measured using a five-point Likert scale:
